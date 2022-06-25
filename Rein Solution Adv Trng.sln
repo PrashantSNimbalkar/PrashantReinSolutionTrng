@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rein Solution Adv Trng", "Rein Solution Adv Trng\Rein Solution Adv Trng.csproj", "{34614838-9FE5-4191-B923-2836741EA6BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34614838-9FE5-4191-B923-2836741EA6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34614838-9FE5-4191-B923-2836741EA6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34614838-9FE5-4191-B923-2836741EA6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34614838-9FE5-4191-B923-2836741EA6BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE3B6C09-CA50-4D64-9D2E-6561A7C64A15}
+	EndGlobalSection
+EndGlobal

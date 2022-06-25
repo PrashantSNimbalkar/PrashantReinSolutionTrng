@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Rein_Solution_Adv_Trng</RootNamespace>
+    <StartupObject>Rein_Solution_Adv_Trng.Containment_Inheritance_Assignment.Assignment_date_22june22</StartupObject>
+  </PropertyGroup>
+
+</Project>
